@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=theopadilha2009-hash&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/theopadilha2009-hash?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=020617" />
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS%20(DEMO)-134-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOLLOWERS%20(DEMO)-20-020617?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
