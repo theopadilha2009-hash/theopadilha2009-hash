@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS%20-134-1E3A8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOLLOWERS%20-20-020617?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FOLLOWERS%20-2000-020617?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
