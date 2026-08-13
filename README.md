@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS%20-134-1E3A8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOLLOWERS%20DEMO-20-020617?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/theopadilha2009-hash?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=020617" />
 
 </div>
 
