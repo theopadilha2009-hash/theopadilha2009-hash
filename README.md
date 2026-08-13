@@ -48,14 +48,18 @@ const theo = {
 
 ---
 
-## Current Focus
+## Development Pulse
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=probot&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/FULL_STACK-1E3A8A?style=for-the-badge&logo=stackblitz&logoColor=white" />
-<img src="https://img.shields.io/badge/SAAS-0369A1?style=for-the-badge&logo=vercel&logoColor=white" />
+<sub>visual activity indicator — not a GitHub contribution metric</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILD-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AUTOMATE-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0369A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHIP-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ITERATE-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-1E3A8A?style=for-the-badge" />
 
 </div>
 
