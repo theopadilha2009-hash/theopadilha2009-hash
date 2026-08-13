@@ -48,11 +48,14 @@ const theo = {
 
 ---
 
-## Development Activity
+## Current Focus
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theopadilha2009-hash&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=Development%20Activity" />
+<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=probot&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/FULL_STACK-1E3A8A?style=for-the-badge&logo=stackblitz&logoColor=white" />
+<img src="https://img.shields.io/badge/SAAS-0369A1?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
