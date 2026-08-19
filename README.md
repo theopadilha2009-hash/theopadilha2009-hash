@@ -65,14 +65,14 @@ const theo = {
 
 <div align="center">
 
+<a href="https://github.com/theopadilha2009-hash/jarvis-agent-os">
+  <img src="https://img.shields.io/badge/JARVIS--AGENT--OS-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://github.com/theopadilha2009-hash/secret.fix">
+  <img src="https://img.shields.io/badge/SECRET.FIX-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://github.com/theopadilha2009-hash/contentmachine">
-  <img src="https://img.shields.io/badge/CONTENTMACHINE-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
-<a href="https://github.com/theopadilha2009-hash/Starter-kit-v2">
-  <img src="https://img.shields.io/badge/STARTER--KIT--V2-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/theopadilha2009-hash/openalgo">
-  <img src="https://img.shields.io/badge/OPENALGO-0369A1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTENTMACHINE-0369A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
